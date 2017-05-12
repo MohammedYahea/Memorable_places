@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "92258170619",
+    "firebase_url": "https://family-organizer-app-b6852.firebaseio.com",
+    "project_id": "family-organizer-app-b6852",
+    "storage_bucket": "family-organizer-app-b6852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92258170619:android:bc2c3977a9dcb812",
+        "android_client_info": {
+          "package_name": "com.mohammedal_hashedi.memorableplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92258170619-4j42rtholjnjeftqp7t2kn3mg09tdsp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArhyyErARMWADry-npnPc6aSjp8CKziaw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

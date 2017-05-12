@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8b5806b2738774e3520d940753eed16b758ec23f">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_40569c219d7dbe60451439d13c4686aedb874fe1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_64b37beb2ec4e6f79d17468c452ad0a845887d64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_d9c579a013317c84e70ce9141415a4673ecb2917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_c083bd11c5a74f67d07282245c9f3824f0e71c20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_9898350b77d166a82a9eacd49af1b44871a90de5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_05075093ce9de14820eb4d8dc29390f8f139a284\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_49587b69f51c46f13b2989c46920e1a2450886aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_dfc03ffee572f0c43b7ecd4c505d1374585668a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_c98340d3c31d530bc87ce629e2e7ef01ca052ac4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_37276ae3302bb11e6e439ada1c993b8bda990029\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_4b51b3604f4f1d28790b52f76008e2d7cf5cbf56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_c23d090c71740d86c23f00c498e6c47612a9d972\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_51ab30143fbff50b8779a9626e6d377c1c44e7c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_f7a26db3b063eafbb0be3db2064b325fd84f2b19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_de743bf86189192990f0eea069ff376fe431fb50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_5443fe423ed8d1992711e563bba604f3a993edcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_c1e5a0ac6618f60004c01797a929413632a799d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_b9ca01dfa6b808c9729ad93b8e9228f257babe4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cdde00fde14e05ff67816bbee7f28b1467c44829\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_935faa9e660bdcbe949d6f0278f0f715bce50429\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_cfdba37aac2683dab35ef945c0aa9f5b1aa4114c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_fd27f4ec3716666929b6f570d595b5a5b282f577\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_457dbe8349e2c753b514b104f1ae356e11ec95f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_1f2998caafed7ad4097c3026c892cd77ad8c870d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_a4fc84afc1b39c908bcf7905bff113a1ea4d0b2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_f6872baa2b6b80e920d60360dcadea1ed6fb2079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_30e71d55b941ec93cb40895e03f2cde1017c3b34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_b78a0f146708c86cd1b3ede5596b5e6302b05333\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_f29df23bf00fec8a3306e744911643b90bf82df0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mohd. Ali\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_cb83dde286a8c4a5694adfa2a6c9f1693d05b0db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_681db5559507119eb75282d2a6cf87489bd499af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_d5e3ccfeef2da32e320e9abd75992d1ba0dbf4e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_39483c2a902a75a8f4f30a52ad6f45ffa95af4e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_86b6e8e519a9125c77990b63aeb0b1c0462106a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_4fc2b083aadc54c2ef702ad3825e8fa21997fccc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_8fae62760803b59417614fa803d4ea7ff8ce7f06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_a5f820c6a1d12401a410cc71e35da329b4464b23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_185eea0aea1cbd62dada431d5de0fa5ca9ac354f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_2f91d60f7ac3177434077421c27cb9554cd44e14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_34e0a4aad4a95709ff123d0f1dd0c9ba7a3f4276\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_b055ff6bc1ae08a914aa76b643d14a226c1420cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8a8a76b8ac556fe5067923a4c84ea6f9b51560fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_cc0804b6c53c3026453b174ecfe2878dbd8d1ec1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_85427ef87584d8db4135b74caf0463a0dee334a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a9b8e9a0c69c8977cb081b14288c151740f6ccd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_1688faa1682b032be735753a97670aa54a896f55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_1a5630b6f6d41fe74ec2780279c51315087dbe41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_7616cc5282665c6daacd05bf68ce771b26bf4733\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_93b5086561a364404e98ec15ac42c020929a4751\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_ff16d9d8c1705074ef54e20846c88cb4013b7d5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_f07aea31435e1ff315edba974d43e2f93244ce2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_5654d68f383d3364607375c7a629bab835e0f4f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_cf53c96dc34573a5a04651b945e89b066a5f291a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_da1082105e0f50ae5f87a84df1f2ea11c6710bf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_fc56c66cc0aa38860a67f28161cdb1af3f97029f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_d737c5ed86f5700eb1dd8c05b368e70fc1c7dc34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_4432d47e63cb9b90c7d0c2163184fffb5c1b19dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_d6afba8cb912d0d8ce7c291f0d7f37be975b1a07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_93853053f7c8e004d634f6fe36756c74e5adf886\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="452178e534b0faf8c307c953cfefdc8bc953486d">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a6337b0704077ad75847c22fc094e105b1574eff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_6c652773239fe904cd56844321be50fb03a44bb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_ed791c7998a4b2e7aa7a92889f0e04fe67f1297f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_c62a216517678c2fd9ab1dcf687b998aac4e767b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_6eb11f4d7264e8c5864729fc14d71f305434aaf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_0f872dfffc29c6e301fd54fe0903173beebc4c5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_bcdfcc8dcf679fcac22f1ef736d5de2e08ba526f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_137393a0b1eb32d38d40c586023b9a947efef226\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_36c81f942022e8d8d6b577e033763176a088715a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="G:\Android programming\The course\06.06\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_20905a322d9da6f5c99b4224819277672062f917\classes.dex" />
+    </item>
+
+</items>
